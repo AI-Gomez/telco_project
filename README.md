@@ -5,7 +5,7 @@ Angel Gomez 09/23/2020
 # Goal
 * The goal of the project is to find the drivers for churn at Telco and create a model to predict churn.
 
-# Project Planning
+### Project Planning
 
 # First Thoughts
 * Overall churn rate is at 26% however there are many factors that contribute to churn.
